@@ -9,4 +9,4 @@
 cnpm i
 cnpm run start
 ```
-打开浏览器，访问 http://localhost:3333/parseurl?url=xxxx
+打开浏览器，访问 http://localhost:3333/parseurl?url=https://xxxx
